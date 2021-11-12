@@ -74,7 +74,7 @@ top: 120px;
 
 @media (min-width: 992px) {
   .circle-photo {
-    shape-outside: ellipse(28% 50% at 29% 50%);
+    shape-outside: circle(50%);
     float: left;
   }
 }
