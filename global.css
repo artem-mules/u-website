@@ -174,3 +174,6 @@ pointer-events: auto !important;
 	pointer-events: none;
 }
 
+.hero-slider-container__absolute {
+  pointer-events: none;
+}
